@@ -1,0 +1,12 @@
+mn.lovame.eko.app.lovame.app-jetified-annotation-experimental-1.1.0-0 /Users/ekoerkhe/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/res
+mn.lovame.eko.app.lovame.app-jetified-window-1.0.0-beta04-1 /Users/ekoerkhe/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/res
+mn.lovame.eko.app.lovame.app-jetified-window-java-1.0.0-beta04-2 /Users/ekoerkhe/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/res
+mn.lovame.eko.app.lovame.app-core-1.6.0-3 /Users/ekoerkhe/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/res
+mn.lovame.eko.app.lovame.app-debug-4 /Users/ekoerkhe/Documents/flutter2024/lovame/android/app/src/debug/res
+mn.lovame.eko.app.lovame.app-main-5 /Users/ekoerkhe/Documents/flutter2024/lovame/android/app/src/main/res
+mn.lovame.eko.app.lovame.app-pngs-6 /Users/ekoerkhe/Documents/flutter2024/lovame/build/app/generated/res/pngs/debug
+mn.lovame.eko.app.lovame.app-resValues-7 /Users/ekoerkhe/Documents/flutter2024/lovame/build/app/generated/res/resValues/debug
+mn.lovame.eko.app.lovame.app-rs-8 /Users/ekoerkhe/Documents/flutter2024/lovame/build/app/generated/res/rs/debug
+mn.lovame.eko.app.lovame.app-mergeDebugResources-9 /Users/ekoerkhe/Documents/flutter2024/lovame/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+mn.lovame.eko.app.lovame.app-mergeDebugResources-10 /Users/ekoerkhe/Documents/flutter2024/lovame/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+mn.lovame.eko.app.lovame.app-merged_res-11 /Users/ekoerkhe/Documents/flutter2024/lovame/build/app/intermediates/merged_res/debug

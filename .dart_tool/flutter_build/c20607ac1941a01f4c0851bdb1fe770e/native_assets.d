@@ -1,0 +1,1 @@
+ /Users/ekoerkhe/Documents/flutter2024/lovame/.dart_tool/flutter_build/c20607ac1941a01f4c0851bdb1fe770e/native_assets.yaml: 
